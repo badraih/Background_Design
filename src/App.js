@@ -10,13 +10,10 @@ class App extends Component {
         <div className="slider">
           <input id="slide_1" type="radio" name="slide-changer" checked/>
           <div className="slide slide_1"></div>
-          
           <input id="slide_2" type="radio" name="slide-changer" />
           <div className="slide slide_2"></div>
-          
           <input id="slide_3" type="radio" name="slide-changer" />
           <div className="slide slide_3"></div>
-
           <input id="slide_4" type="radio" name="slide-changer" />
           <div className="slide slide_4"></div>
           <input id="slide_5" type="radio" name="slide-changer" />
