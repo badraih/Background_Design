@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import style from 'bootstrap/dist/css/bootstrap.css';
-
 class App extends Component {
   render() {
     return (
@@ -26,10 +24,6 @@ class App extends Component {
           <div className="slide slide_8"></div>
         </div>
         </div>
-        {/* <div className="wrapper">
-          <div className="sliding-background"></div>
-        </div> */}
-
        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300" type="text/css" />
        <div className="content">
         <h1> Max Power </h1>
